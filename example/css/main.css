@@ -1,0 +1,40 @@
+body
+{
+    background-color: #f2f2f2;
+    text-align: center;
+}
+
+#tab-container
+{
+    margin: 100px auto 0 auto;
+    width:300px;
+}
+
+ul#tab-nav
+{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+#tab-nav li
+{
+    margin: 0 3px 3px 0;
+        
+    background-color: #FFFFFF;
+    border: #d8d8d8 1px solid;
+    float: left;
+    padding: 5px 20px;
+}
+
+#tab-nav li.active
+{
+    border: #c0c0c0 1px solid;
+}
+
+.tab-body
+{
+    background-color: #FFFFFF;
+    border: #c0c0c0 1px solid;
+}

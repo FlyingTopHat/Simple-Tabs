@@ -5,8 +5,8 @@ A simple jQuery plugin for creating tabs, which have the added benefit of gracef
 ## Example usage
     <div>
         <ul id="tab-nav">
-            <li><a href="#tabs-1">Example Tab 1</a></li>
-            <li><a href="#tabs-2">Example Tab 2</a></li>
+            <li><a href="#tab-1">Example Tab 1</a></li>
+            <li><a href="#tab-2">Example Tab 2</a></li>
         </ul>
    
         <div id="tab-1">Example text for tab body 1</div>
